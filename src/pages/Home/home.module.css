@@ -1,0 +1,26 @@
+.navbar{
+    background-color: #c9c9c9;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 65px;
+    padding-inline: 16px;
+}
+
+.logo{
+    font-size: 22px;
+    font-weight: 700;
+    color: #232323;
+}
+
+.links{
+    display: flex;
+    gap: 15px;
+    font-weight: 500;
+    color: #232323;
+}
+
+.home_main{
+    text-align: center;
+    padding-top: 40px;
+}

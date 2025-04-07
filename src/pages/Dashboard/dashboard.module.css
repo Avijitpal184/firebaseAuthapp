@@ -1,0 +1,38 @@
+.dashboard {
+  text-align: center;
+  padding-block: 70px;
+  /* margin-top: 30px; */
+}
+
+.title {
+  font-weight: 600;
+  font-size: 34px;
+  color: #232323;
+  margin-bottom: 5px;
+}
+
+.user {
+  font-weight: 500;
+  font-size: 20px;
+  color: #5a5a5a;
+  margin-top: 10px;
+
+  span {
+    font-weight: 600;
+    color: #232323;
+  }
+}
+
+.logout_btn {
+  padding-block: 10px;
+  padding-inline: 20px;
+  border-radius: 50px;
+  border: none;
+  outline: none;
+  background-color: #232323;
+  color: #fff;
+  font-size: 16px;
+  margin-top: 20px;
+  transition: background-color 0.1s ease-in-out;
+  cursor: pointer;
+}
