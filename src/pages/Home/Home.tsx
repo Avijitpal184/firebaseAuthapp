@@ -35,5 +35,4 @@ const Home = () => {
 
 export default Home;
 
-// mehodem176@bariswc.com
 
